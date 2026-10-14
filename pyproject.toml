@@ -1,0 +1,7 @@
+[project]
+name = "genpark-ast-code-symbol-dependency-graph-and-blast-radius-analyzer-skill"
+version = "1.0.0"
+description = "Parses source code abstract syntax trees to extract symbol definitions, call graphs, and calculate modification blast radius"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
